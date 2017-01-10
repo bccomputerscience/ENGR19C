@@ -7,7 +7,7 @@ Information Technology
 Bakersfield College  
 
 ## Contact Information
-Office: Business 13  
+Office: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: http://courses.eddierangel.com/bc  
@@ -26,7 +26,7 @@ Wednesday 06:00pm - 09:10pm
 
 
 ## Office Hours
-Office: Business 13
+Office: Business 1
 
 Day | Time
 ------------ | -------------
@@ -130,52 +130,44 @@ Participate in BC Hackathon Spring 2017 (20 pts)
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
+## Important Dates
+Date | Event
+------ | ------
+Jan 14 | Spring Semester - Instruction Begins 
+Jan 16 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 29 | Last day to drop from a semester length class without receiving a W 
+       | Last day to add a semester length class with approved add form  
+Feb 1  | Last day to withdraw and not have a W show on your transcript 
+Feb 17 | Lincoln Holiday - Campus Closed 
+Feb 20 | Washington Holiday - Campus Closed  
+Mar 24 | Last day to withdraw from a semester length class and receive a W 
+Mar 27 | Last day to withdraw and have a W show on your transcript 
+Apr 10 | Spring Break - Campus Closed 
+May 12 | End of Spring Semester
 
 ## 16 Week Semester Schedule  
-Date | Week | Topics | Reading | Assignments
------------- | ------------- | ------------- | ------------- | -------------
-Jan 14 |  | Spring Semester - Instruction Begins | |
-Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  | Intro. to Computers and Software Development | Ch. 1 | 
-Jan 23 | 2 | Binary, Two's Complement   |  | Homework 1 Due
-Jan 25 |  | Octal, Hexadecimal | |
-Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
-       |  | Last day to add a semester length class with approved add form  | |
-Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
-Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-       |  | Intro. to C++ | Ch. 2 | 
-Feb 6 | 4 | Intro. to C++ | Ch. 2 | 
-Feb 8 | |  |  |
-Feb 13 | 5  | Expressions | Ch. 3 | Homework 3 Due 
-Feb 15 | |  |  |
-Feb 17 | | Lincoln Holiday - Campus Closed |  |
-Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
-Feb 22 |  | Making Decisions | Ch. 4 | 
-Feb 27 | 7 | Loops and Files | Ch. 5 | Homework 5 Due 
-Mar 1 |  | | | 
-Mar 6 | 8 | Functions | Ch. 6 | 
-Mar 8 | |  | |
-Mar 13 | 9 | MidTerm Review |  | 
-Mar 15 |  |  Midterm Exam | | 
-Mar 20 | 10 | Arrays | Ch. 7 | Homework 6 Due
-Mar 22 | |  | |
-Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
-Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
-Mar 29 |  | Searching & Sorting Arrays | Ch. 8 |  
-Apr 3 | 12 | Characters, C-Strings, and More | Ch. 10 | Homework 8 Due
-Apr 5 |  |   | | 
-Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 | 14 | Intro. to Classes | Ch. 13  | 
-Apr 19 | | | | 
-Apr 24 | 15  | Inheritance, Polymorphism | Ch. 14 | Homework 10 Due
-Apr 26 | |  |  | 
-May 1 | 16 | Exceptions, Templates | Ch. 16 |
-May 3 | | | | 
-May 5 | | Project Due by 11:59pm | | 
-May 8 | 17 | Finals Week | | 
-May 10 |  | CRN: 31390 Final Exam - 6:00PM - 7:50PM | **Bring ScanTron** |  
-May 11 |  | CRN: 31389 Final Exam - 8:00AM - 9:50AM | **Bring ScanTron** |  
-May 12 |  | **End of Spring Semester** | |
+Week | Topics | Reading | Assignments
+------------- | ------------- | ------------- | -------------
+1 | Intro. to Computers and Software Development | Ch. 1 | 
+2 | Binary, Octal, Hexadecimal, Two's Complement   |  | Homework 1 Due
+3 |  Intro. to C++ | Ch. 2 | 
+4 | Intro. to C++ | Ch. 2 | 
+5 | Expressions | Ch. 3 | Homework 3 Due 
+6 |  | Making Decisions | Ch. 4 | Homework 4 Due 
+7 | Loops and Files | Ch. 5 | Homework 5 Due 
+8 | Functions | Ch. 6 | 
+9 | MidTerm  |  | 
+10 | Arrays | Ch. 7 | Homework 6 Due
+11 | Searching & Sorting Arrays | Ch. 8 | Homework 7 Due
+12 | Characters, C-Strings, and More | Ch. 10 | Homework 8 Due
+13 | Spring Break - Campus Closed | | Homework 9 Due
+14 | Intro. to Classes | Ch. 13  | 
+15  | Inheritance, Polymorphism | Ch. 14 | Homework 10 Due
+16 | Exceptions, Templates | Ch. 16 |
+17 | Finals Week | | 
+  | CRN: 31390 Final Exam - 6:00PM - 7:50PM | **Bring ScanTron** |  
+  | CRN: 31389 Final Exam - 8:00AM - 9:50AM | **Bring ScanTron** |  
+
 
 ### Read the material for the week before class
 ### This syllabus is tentative and subject to change
