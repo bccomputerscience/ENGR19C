@@ -1,5 +1,5 @@
-# COMP B12 - Programming Concepts and Methodology II
-## Spring 2017 CRN: 31050
+# ENGR B19C - Introduction to Programming Concepts and Methodologies for Engineers
+## Spring 2017 CRN: 31389 & 31390
 
 ### Eddie Rangel
 Asst. Professor  
@@ -13,9 +13,17 @@ Phone: (661) 395-4879
 web: http://courses.eddierangel.com/bc  
 
 ## Course Information
-Building/Room: Business 2   
-Monday 01:00pm - 02:25pm  
-Wednesday 01:00pm - 02:25pm  
+Building/Room: Business 2
+CRN: 31389   
+Tuesday 08:00am - 09:05am  
+        09:15am - 10:35am  
+Thursday 08:00am - 09:05am  
+         09:15am - 10:35am   
+
+CRN: 31390   
+Monday 06:00pm - 08:05pm  
+Wednesday 06:00pm - 09:10pm  
+
 
 ## Office Hours
 Office: Business 13
@@ -62,7 +70,7 @@ and design.
 * GitHub Account w/ Student Access
     * Private Repositories Required
 * Flash Drive
-    * At least 16 GB (I will transfer a Linux Virtual Machine to you)
+    * At least 32 GB (I will transfer a Linux Virtual Machine to you)
     * You will want to run your VM from your USB Drive
 * Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
 
@@ -128,41 +136,40 @@ Date | Week | Topics | Reading | Assignments
 ------------ | ------------- | ------------- | ------------- | -------------
 Jan 14 |  | Spring Semester - Instruction Begins | |
 Jan 16 | 1 | Martin Luther King, Jr. Day Holiday – Campus Closed | |
-Jan 18 |  | Intro. to C++ | Ch. 6 | 
-Jan 23 | 2 |  Intro. to C++ | Ch. 9 | Homework 1 Due
-Jan 25 |  |  | |
-Jan 27 |  | Last day for a refund for semester length classes  | |
+Jan 18 |  | Intro. to Computers and Software Development | Ch. 1 | 
+Jan 23 | 2 | Binary, Two's Complement   |  | Homework 1 Due
+Jan 25 |  | Octal, Hexadecimal | |
 Jan 29 |  | Last day to drop from a semester length class without receiving a W   | |
        |  | Last day to add a semester length class with approved add form  | |
 Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-       |  | Dynamic Memory | Ch. 9 | 
-Feb 6 | 4 |  | | 
-Feb 8 | | Horstmann: 3. Implementing Classes | |
-Feb 13 | 5  |  |  | Homework 3 Due 
+       | Intro. to C++ | | Ch. 2 | 
+Feb 6 | 4 | Expressions | Ch. 3 | 
+Feb 8 | |  |  |
+Feb 13 | 5  | Intro. to C++ | Ch. 2 | Homework 3 Due 
 Feb 15 | |  |  |
 Feb 17 | | Lincoln Holiday - Campus Closed |  |
 Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
-Feb 22 |  |  |  | 
-Feb 27 | 7 | Horstmann: 5. Decisions |  | Homework 5 Due 
+Feb 22 |  | Expressions | Ch. 3 | 
+Feb 27 | 7 | Making Decisions | Ch. 4 | Homework 5 Due 
 Mar 1 |  | | | 
-Mar 6 | 8 | Java Tutorial [Control Statements](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  | | 
+Mar 6 | 8 | Loops and Files | Ch. 5 | 
 Mar 8 | |  | |
-Mar 13 | 9 | Horstmann: 6. Loops | | 
-Mar 15 |  |  Midterm Exam | | MidTerm Review Due
-Mar 20 | 10 | | Java Tutorial [Methods](http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) | Homework 6 Due
-Mar 22 | | Ch. 20 Input/Output Streams | |
+Mar 13 | 9 | MidTerm Review |  | 
+Mar 15 |  |  Midterm Exam | | 
+Mar 20 | 10 | Functions | Ch. 6 | Homework 6 Due
+Mar 22 | |  | |
 Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
 Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
-Mar 29 |  | Horstmann: 7. Arrays and Array Lists | |  
-Apr 3 | 12 | | | Homework 8 Due
-Apr 5 |  | Horstmann: 8. Designing Classes  | | 
+Mar 29 |  | Arrays | Ch. 7 |  
+Apr 3 | 12 | Searching & Sorting Arrays| Ch. 8 | Homework 8 Due
+Apr 5 |  |   | | 
 Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 | 14 | Horstmann: 9. Inheritance | Ch. 10 Interfaces | 
+Apr 17 | 14 | Characters, C-Strings, and More  | Ch. 10  | 
 Apr 19 | | | | 
-Apr 24 | 15  | Horstmann: 13 Object Oriented Design | | Homework 10 Due
-Apr 26 | | | | 
-May 1 | 16 | Horstmann: 14. Recursion | |
+Apr 24 | 15  | Intro. to Classes | Ch. 13 | Homework 10 Due
+Apr 26 | | Inheritance, Polymorphism | Ch. 14 | 
+May 1 | 16 | Exceptions, Templates | Ch. 16 |
 May 3 | | | | 
 May 5 | | Project Due by 11:59pm | | 
 May 8 | 17 | Finals Week | | Chapter Reviews Due 6 - 9

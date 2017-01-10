@@ -7,7 +7,7 @@ Use the course syllabus to answer the following questions. 10 pts.
 
 2. 
 
-3. 
+3.
 
 4.
 
