@@ -144,31 +144,31 @@ Jan 29 |  | Last day to drop from a semester length class without receiving a W 
 Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
        |  | Intro. to C++ | Ch. 2 | 
-Feb 6 | 4 | Expressions | Ch. 3 | 
+Feb 6 | 4 | Intro. to C++ | Ch. 2 | 
 Feb 8 | |  |  |
-Feb 13 | 5  | Intro. to C++ | Ch. 2 | Homework 3 Due 
+Feb 13 | 5  | Expressions | Ch. 3 | Homework 3 Due 
 Feb 15 | |  |  |
 Feb 17 | | Lincoln Holiday - Campus Closed |  |
 Feb 20 | 6 | Washington Holiday - Campus Closed  | | Homework 4 Due 
-Feb 22 |  | Expressions | Ch. 3 | 
-Feb 27 | 7 | Making Decisions | Ch. 4 | Homework 5 Due 
+Feb 22 |  | Making Decisions | Ch. 4 | 
+Feb 27 | 7 | Loops and Files | Ch. 5 | Homework 5 Due 
 Mar 1 |  | | | 
-Mar 6 | 8 | Loops and Files | Ch. 5 | 
+Mar 6 | 8 | Functions | Ch. 6 | 
 Mar 8 | |  | |
 Mar 13 | 9 | MidTerm Review |  | 
 Mar 15 |  |  Midterm Exam | | 
-Mar 20 | 10 | Functions | Ch. 6 | Homework 6 Due
+Mar 20 | 10 | Arrays | Ch. 7 | Homework 6 Due
 Mar 22 | |  | |
 Mar 24 | | Last day to withdraw from a semester length class and receive a W | |
 Mar 27 | 11 | Last day to withdraw and have a W show on your transcript | | Homework 7 Due
-Mar 29 |  | Arrays | Ch. 7 |  
-Apr 3 | 12 | Searching & Sorting Arrays| Ch. 8 | Homework 8 Due
+Mar 29 |  | Searching & Sorting Arrays | Ch. 8 |  
+Apr 3 | 12 | Characters, C-Strings, and More | Ch. 10 | Homework 8 Due
 Apr 5 |  |   | | 
 Apr 10 | 13 | Spring Break - Campus Closed | | Homework 9 Due
-Apr 17 | 14 | Characters, C-Strings, and More  | Ch. 10  | 
+Apr 17 | 14 | Intro. to Classes | Ch. 13  | 
 Apr 19 | | | | 
-Apr 24 | 15  | Intro. to Classes | Ch. 13 | Homework 10 Due
-Apr 26 | | Inheritance, Polymorphism | Ch. 14 | 
+Apr 24 | 15  | Inheritance, Polymorphism | Ch. 14 | Homework 10 Due
+Apr 26 | |  |  | 
 May 1 | 16 | Exceptions, Templates | Ch. 16 |
 May 3 | | | | 
 May 5 | | Project Due by 11:59pm | | 
