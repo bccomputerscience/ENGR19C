@@ -13,7 +13,7 @@ Phone: (661) 395-4879
 web: http://courses.eddierangel.com/bc  
 
 ## Course Information
-Building/Room: Business 2
+Building/Room: Business 2  
 CRN: 31389   
 Tuesday 08:00am - 09:05am  
         09:15am - 10:35am  
@@ -143,7 +143,7 @@ Jan 29 |  | Last day to drop from a semester length class without receiving a W 
        |  | Last day to add a semester length class with approved add form  | |
 Jan 30 | 3 |  Labor Day – Campus Closed | | Homework 2 Due
 Feb 1 |  | Last day to withdraw and not have a W show on your transcript | |
-       | Intro. to C++ | | Ch. 2 | 
+       |  | Intro. to C++ | Ch. 2 | 
 Feb 6 | 4 | Expressions | Ch. 3 | 
 Feb 8 | |  |  |
 Feb 13 | 5  | Intro. to C++ | Ch. 2 | Homework 3 Due 
@@ -172,8 +172,9 @@ Apr 26 | | Inheritance, Polymorphism | Ch. 14 |
 May 1 | 16 | Exceptions, Templates | Ch. 16 |
 May 3 | | | | 
 May 5 | | Project Due by 11:59pm | | 
-May 8 | 17 | Finals Week | | Chapter Reviews Due 6 - 9
-May 10 | 16 |  Final Exam - 8:00 am to 9:50 am | **Bring ScanTron** | 
+May 8 | 17 | Finals Week | | 
+May 10 |  | CRN: 31390 Final Exam - 6:00PM - 7:50PM | **Bring ScanTron** |  
+May 11 |  | CRN: 31389 Final Exam - 8:00AM - 9:50AM | **Bring ScanTron** |  
 May 12 |  | **End of Spring Semester** | |
 
 ### Read the material for the week before class
