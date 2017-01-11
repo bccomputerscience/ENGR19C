@@ -13,16 +13,20 @@ Phone: (661) 395-4879
 web: http://courses.eddierangel.com/bc  
 
 ## Course Information
-Building/Room: Business 2  
-CRN: 31389   
-Tuesday 08:00am - 09:05am  
-        09:15am - 10:35am  
-Thursday 08:00am - 09:05am  
-         09:15am - 10:35am   
+Building/Room: Business 5  
+CRN: 31389  
+Day | Time
+------------ | -------
+Tuesday | 08:00am - 09:05am  
+        | 09:15am - 10:35am  
+Thursday | 08:00am - 09:05am  
+         | 09:15am - 10:35am   
 
-CRN: 31390   
-Monday 06:00pm - 08:05pm  
-Wednesday 06:00pm - 09:10pm  
+CRN: 31390  
+Day | Time
+------------ | -------
+Monday | 06:00pm - 08:05pm  
+Wednesday | 06:00pm - 09:10pm  
 
 
 ## Office Hours
@@ -37,27 +41,19 @@ Thursday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-**Prerequisite**: COMP B11 with a grade of "C" or better. 
-This is a software engineering course focused on the application of software engineering techniques for the design and development 
-of large programs. Topics include object oriented programming, data abstraction, data structures 
-and their associated algorithms, and recursion. Students will learn to design, implement, test, 
-and debug programs using an object-oriented language. Not open to students who have previously 
-received credit for COMS B35.
+**Prerequisite**:  MATH B1B with a grade of "C" or better. Description: The purpose of this course is expose students 
+to (1) the fundamental concepts of procedure oriented programming, (2) associated abstraction mechanisms and design 
+processes, (3) the interface of software with the physical world (e.g. the use of sensors), and (4) the application of 
+programming concepts to numenrical analysis techniques. This course utilizes the C/C++ programming language
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
-1. Design and implement programs that use arrays, records/structs, strings, linked
-lists, stacks, queues, hash tables, and trees.
-2. Design, implement, test, and debug recursive functions and procedures.
-3. Evaluate the tradeoffs in lifetime management of data when using manual memory
-management versus reference counting or tracing garbage collection.
-4. Explain how abstraction mechanisms support the creation of reusable software
-components.
-4. Design, implement, test, and debug programs in an objectoriented
-language.
-6. Compare and contrast objectoriented
-analysis and design with structured analysis
-and design.
+1. Describe the basics of the architecture of a computer and its components.
+2. Describe the principles of structured programming.
+3. Describe, design, implement, and test structured programs using currently accepted methodology, and in particular to 
+be able to do so for programs that control or otherwise interface with hardware by means of software.
+4. Explain what an algorithm is and its importance in computer programming.
+5. Apply numerical techniques to analyze and solve engineering-related problems.
 
 ## Textbook
 
@@ -117,11 +113,11 @@ You will not be given extra time to complete the exam or quiz if you start late.
 
 
 ## Extra Credit
-Go to a BC Library Workshop (10 pts)  
+Go to a BC Library Workshop (5 pts)  
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
-Participate in BC Hackathon Spring 2017 (20 pts)
+Participate in BC Hackathon Spring 2017 (10 pts)
 * March 17th - 19th
 * Must complete the competition
 
