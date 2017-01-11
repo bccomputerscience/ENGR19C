@@ -14,7 +14,7 @@ web: http://courses.eddierangel.com/bc
 
 ## Course Information
 Building/Room: Business 5  
-CRN: 31389  
+**CRN: 31389**
 
 Day | Time
 ------------ | -------------
@@ -23,7 +23,7 @@ Tuesday | 08:00am - 09:05am
 Thursday | 08:00am - 09:05am  
          | 09:15am - 10:35am   
 
-CRN: 31390  
+**CRN: 31390**  
 
 Day | Time
 ------------ | -------------
