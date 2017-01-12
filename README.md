@@ -13,16 +13,22 @@ Phone: (661) 395-4879
 web: http://courses.eddierangel.com/bc  
 
 ## Course Information
-Building/Room: Business 2  
-CRN: 31389   
-Tuesday 08:00am - 09:05am  
-        09:15am - 10:35am  
-Thursday 08:00am - 09:05am  
-         09:15am - 10:35am   
+Building/Room: Business 5  
+**CRN: 31389**
 
-CRN: 31390   
-Monday 06:00pm - 08:05pm  
-Wednesday 06:00pm - 09:10pm  
+Day | Time
+------------ | -------------
+Tuesday | 08:00am - 09:05am  
+        | 09:15am - 10:35am  
+Thursday | 08:00am - 09:05am  
+         | 09:15am - 10:35am   
+
+**CRN: 31390**  
+
+Day | Time
+------------ | -------------
+Monday | 06:00pm - 08:05pm  
+Wednesday | 06:00pm - 09:10pm  
 
 
 ## Office Hours
@@ -37,11 +43,8 @@ Thursday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-**Prerequisite**: COMP B11 with a grade of "C" or better. 
-This is a software engineering course focused on the application of software engineering techniques for the design and development 
-of large programs. Topics include object oriented programming, data abstraction, data structures 
-and their associated algorithms, and recursion. Students will learn to design, implement, test, 
-and debug programs using an object-oriented language. Not open to students who have previously 
-received credit for COMS B35.
+**Prerequisite**:  MATH B1B with a grade of "C" or better. Description: The purpose of this course is expose students 
+to (1) the fundamental concepts of procedure oriented programming, (2) associated abstraction mechanisms and design 
+processes, (3) the interface of software with the physical world (e.g. the use of sensors), and (4) the application of 
+programming concepts to numenrical analysis techniques. This course utilizes the C/C++ programming language
 **Course Corequisites**: NONE
-
