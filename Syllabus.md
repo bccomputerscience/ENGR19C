@@ -161,8 +161,8 @@ Week | Topics | Reading | Assignments
 15  | Inheritance, Polymorphism | Ch. 14 | Homework 10 Due
 16 | Exceptions, Templates | Ch. 16 |
 17 | Finals Week | | 
-  | CRN: 31390 Final Exam - 6:00PM - 7:50PM | **Bring ScanTron** |  
-  | CRN: 31389 Final Exam - 8:00AM - 9:50AM | **Bring ScanTron** |  
+  | CRN: 31390 Final Exam - Wed., May 10 from 6:00PM - 7:50PM | **Bring ScanTron** |  
+  | CRN: 31389 Final Exam - Thurs., May 11 from 8:00AM - 9:50AM | **Bring ScanTron** |  
 
 
 ### Read the material for the week before class
