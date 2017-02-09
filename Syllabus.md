@@ -149,7 +149,7 @@ Week | Topics | Reading | Assignments
 3 |  Intro. to C++ | Ch. 2 | 
 4 | Intro. to C++ | Ch. 2 | 
 5 | Expressions | Ch. 3 | Homework 3 Due 
-6 |  | Making Decisions | Ch. 4 | Homework 4 Due 
+6 | Making Decisions | Ch. 4 | Homework 4 Due 
 7 | Loops and Files | Ch. 5 | Homework 5 Due 
 8 | Functions | Ch. 6 | 
 9 | MidTerm  |  | 
