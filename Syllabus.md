@@ -146,15 +146,15 @@ Week | Topics | Reading | Assignments
 ------------- | ------------- | ------------- | -------------
 1 | Intro. to Computers and Software Development | Ch. 1 | 
 2 | Binary, Octal, Hexadecimal, Two's Complement   |  | Homework 1 Due
-3 |  Intro. to C++ | Ch. 2 | 
-4 | Intro. to C++ | Ch. 2 | 
-5 | Expressions | Ch. 3 | Homework 3 Due 
-6 | Making Decisions | Ch. 4 | Homework 4 Due 
-7 | Loops and Files | Ch. 5 | Homework 5 Due 
-8 | Functions | Ch. 6 | 
+3 | Intro. to C++ | Ch. 2 | 
+4 | Expressions | Ch. 3 | 
+5 | Making Decisions | Ch. 4 | Homework 3 Due 
+6 | Loops and Files | Ch. 5 | Homework 4 Due 
+7 | Functions | Ch. 6 | Homework 5 Due 
+8 | Arrays | Ch. 7 | 
 9 | MidTerm  |  | 
-10 | Arrays | Ch. 7 | Homework 6 Due
-11 | Searching & Sorting Arrays | Ch. 8 | Homework 7 Due
+10 | Searching & Sorting Arrays | Ch. 8 | Homework 6 Due
+11 | Pointers | Ch. 9 | Homework 7 Due
 12 | Characters, C-Strings, and More | Ch. 10 | Homework 8 Due
 13 | Spring Break - Campus Closed | | Homework 9 Due
 14 | Intro. to Classes | Ch. 13  | 
