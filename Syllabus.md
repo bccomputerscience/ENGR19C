@@ -24,15 +24,15 @@ Thursday Lecture | 08:00am - 09:05am
 Thursday Lab | 09:15am - 10:35am   
 
 **CRN: 31383**  
-Building/Room: Business 11 
-Day | Time
------------- | -------------
+Building/Room: Business 11   
+Day | Time  
+------------ | -------------  
 Monday Lecture | 04:20pm - 05:45pm  
 Wednesday Lecture | 04:20pm - 05:45pm  
 
-Building/Room: Business 5  
-Day | Time
------------- | -------------
+Building/Room: Business 5    
+Day | Time  
+------------ | -------------  
 Monday Lab | 06:00pm - 08:05pm 
 
 
@@ -154,8 +154,8 @@ Week | Topics | Reading | Assignments
 15  | Object-Oriented Programming | Ch. 14 | Homework 10 Due
 16 | Exceptions, Templates | Ch. 16 |
 17 | Finals Week | | 
-  | CRN: 31382 Final Exam - Thurs., May 10 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
-  | CRN: 31383 Final Exam - Mon., May 7 from 4:00 PM - 5:50 PM | **Bring ScanTron** |  
+CRN: 31382  | Final Exam - Thurs., May 10 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
+CRN: 31383  |  Final Exam - Mon., May 7 from 4:00 PM - 5:50 PM | **Bring ScanTron** |  
 
 
 ### Read the material for the week before class
