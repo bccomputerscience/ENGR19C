@@ -1,34 +1,39 @@
 # ENGR B19C - Introduction to Programming Concepts and Methodologies for Engineers
-## Spring 2017 CRN: 31389 & 31390
+## Spring 2018 CRN: 31382 & 31383
 
-### Eddie Rangel
-Asst. Professor  
+## Instructor
+Eddie Rangel  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
 ## Contact Information
-Office: Business 1  
+Building/Room: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/bc  
+Course Site: https://portal.bakersfieldcollege.edu/  
 
 ## Course Information
+**CRN: 31382**
 Building/Room: Business 5  
-**CRN: 31389**
-
 Day | Time
 ------------ | -------------
-Tuesday | 08:00am - 09:05am  
-        | 09:15am - 10:35am  
-Thursday | 08:00am - 09:05am  
-         | 09:15am - 10:35am   
+Tuesday Lecture | 08:00am - 09:05am  
+Tuesday Lab | 09:15am - 10:35am  
+Thursday Lecture | 08:00am - 09:05am  
+Thursday Lab | 09:15am - 10:35am   
 
-**CRN: 31390**  
-
+**CRN: 31383**  
+Building/Room: Business 11 
 Day | Time
 ------------ | -------------
-Monday | 06:00pm - 08:05pm  
-Wednesday | 06:00pm - 09:10pm  
+Monday Lecture | 04:20pm - 05:45pm  
+Wednesday Lecture | 04:20pm - 05:45pm  
+
+Building/Room: Business 5  
+Day | Time
+------------ | -------------
+Monday Lab | 06:00pm - 08:05pm 
 
 
 ## Office Hours
@@ -36,10 +41,10 @@ Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 04:00pm – 05:30pm
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 04:00pm – 05:30pm
-Thursday | 03:00pm – 04:00pm
+Monday | 11:30am – 01:00pm
+Monday | 03:00pm – 04:00pm
+Wednesday | 11:30am – 01:00pm
+Wednesday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
@@ -52,25 +57,20 @@ programming concepts to numenrical analysis techniques. This course utilizes the
 ## Student Learning Outcomes
 1. Describe the basics of the architecture of a computer and its components.
 2. Describe the principles of structured programming.
-3. Describe, design, implement, and test structured programs using currently accepted methodology, and in particular to 
-be able to do so for programs that control or otherwise interface with hardware by means of software.
+3. Describe, design, implement, and test structured programs using currently accepted methodology, and in particular to be able to do so for programs that control or otherwise interface with hardware by means of software.
 4. Explain what an algorithm is and its importance in computer programming.
 5. Apply numerical techniques to analyze and solve engineering-related problems.
 
 ## Textbook
 
 ### Required:
-* Starting Out with C++ from Control Structures to Objects plus MyProgrammingLab
-    * Access Card Package | Edition: 8 
-    * Author: Tony Gaddis
-    * ISBN: 9780133796339
+* C++ for Engineers and Scientists, 4 th Edition
+    * Author: Bronson
+    * ISBN: 978-1-133-18784-4 
 * BC Email Address   
 * GitHub Account w/ Student Access
-    * Private Repositories Required
 * Flash Drive
-    * At least 32 GB (I will transfer a Linux Virtual Machine to you)
-    * You will want to run your VM from your USB Drive
-* Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
+* Two (2) green 100-answer test scan sheets (FORM NO. 882-E).
 
 ## Accommodations 
 Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
@@ -90,12 +90,11 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 
 Assignment | Points
 ------------ | -------------
-Project | 50
 Mid Term Exam | 50
-Exam Reviews (2 @ 25 pts each) | 50
+Quizzes | 50
 Programming Assignments (10 @ 20 points each) | 200
 Homework Assignments (10 @ 10 points each) | 100
-Final Exam | 50
+Final Exam | 100
 **TOTAL** | **500**
 
 Range (%) | grade 
@@ -113,16 +112,10 @@ Make-up exams or quizzes will not be given and late assignments will not be acce
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. 
 You will not be given extra time to complete the exam or quiz if you start late.
 
-
 ## Extra Credit
 Go to a BC Library Workshop (5 pts)  
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
-
-Participate in BC Hackathon Spring 2017 (10 pts)
-* March 17th - 19th
-* Must complete the competition
-
 
 ## Habits of Mind
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
@@ -131,38 +124,38 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Jan 14 | Spring Semester - Instruction Begins 
-Jan 16 | Martin Luther King, Jr. Day Holiday – Campus Closed
-Jan 29 | Last day to drop from a semester length class without receiving a W 
+Jan 13 | Spring Semester - Instruction Begins 
+Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 28 | Last day to drop from a semester length class without receiving a W 
        | Last day to add a semester length class with approved add form  
-Feb 17 | Lincoln Holiday - Campus Closed 
-Feb 20 | Washington Holiday - Campus Closed  
-Mar 24 | Last day to withdraw from a semester length class and receive a W 
-Apr 10 | Spring Break - Campus Closed 
-May 12 | End of Spring Semester
+Feb 16 | Lincoln Holiday - Campus Closed 
+Feb 19 | Washington Holiday - Campus Closed  
+Mar 23 | Last day to withdraw from a semester length class and receive a W 
+Mar 26 | Spring Break - Campus Closed 
+May 11 | End of Spring Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
 ------------- | ------------- | ------------- | -------------
-1 | Intro. to Computers and Software Development | Ch. 1 | 
-2 | Binary, Octal, Hexadecimal, Two's Complement   |  | Homework 1 Due
-3 | Intro. to C++ | Ch. 2 | 
-4 | Expressions | Ch. 3 | 
-5 | Making Decisions | Ch. 4 | Homework 3 Due 
-6 | Loops and Files | Ch. 5 | Homework 4 Due 
-7 | Functions | Ch. 6 | Homework 5 Due 
-8 | Arrays | Ch. 7 | 
+1 | Intro. to Computers & Software Development | Ch. 1 | 
+2 | Binary, Octal, Hexadecimal, Two's Complement  | Ch. 1 | Homework 1 Due
+3 | Problem Solving Using C++ | Ch. 2 | 
+4 | Expressions | Ch. 2 | 
+5 | Assignment, Formatting, and Interactive Input | Ch. 3 | Homework 3 Due 
+6 | Selecture Structures | Ch. 4 | Homework 4 Due 
+7 | Repetition Statements | Ch. 5 | Homework 5 Due 
+8 | Modularity Using Functions | Ch. 6 | 
 9 | MidTerm  |  | 
-10 | Searching & Sorting Arrays | Ch. 8 | Homework 6 Due
-11 | Pointers | Ch. 9 | Homework 7 Due
-12 | Characters, C-Strings, and More | Ch. 10 | Homework 8 Due
-13 | Spring Break - Campus Closed | | Homework 9 Due
-14 | Intro. to Classes | Ch. 13  | 
-15  | Inheritance, Polymorphism | Ch. 14 | Homework 10 Due
+10 | Arrays | Ch. 7 | Homework 6 Due
+11 | I/O Streams and Data Files | Ch. 8 | Homework 7 Due
+12 | Spring Break - Campus Closed | | Homework 9 Due
+13 | Completing the Basics | Ch. 9 | Homework 8 Due
+14 | Pointers | Ch. 10  | 
+15  | Object-Oriented Programming | Ch. 14 | Homework 10 Due
 16 | Exceptions, Templates | Ch. 16 |
 17 | Finals Week | | 
-  | CRN: 31390 Final Exam - Wed., May 10 from 6:00PM - 7:50PM | **Bring ScanTron** |  
-  | CRN: 31389 Final Exam - Thurs., May 11 from 8:00AM - 9:50AM | **Bring ScanTron** |  
+  | CRN: 31382 Final Exam - Thurs., May 10 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
+  | CRN: 31383 Final Exam - Mon., May 7 from 4:00 PM - 5:50 PM | **Bring ScanTron** |  
 
 
 ### Read the material for the week before class
