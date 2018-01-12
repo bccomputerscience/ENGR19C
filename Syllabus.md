@@ -15,32 +15,32 @@ Course Site: https://portal.bakersfieldcollege.edu/
 
 ## Course Information
 **CRN: 31382**  
-Building/Room: Business 5  
+**Building/Room: Business 5**  
 
 Day | Time
 ------------ | -------------
-Tuesday Lecture | 08:00am - 09:05am  
-Tuesday Lab | 09:15am - 10:35am  
-Thursday Lecture | 08:00am - 09:05am  
-Thursday Lab | 09:15am - 10:35am   
+Tuesday *Lecture* | 08:00am - 09:05am  
+Tuesday *Lab* | 09:15am - 10:35am  
+Thursday *Lecture* | 08:00am - 09:05am  
+Thursday *Lab* | 09:15am - 10:35am   
 
 **CRN: 31383**    
-Building/Room: Business 11   
+**Building/Room: Business 11**   
 
 Day | Time  
 ------------ | -------------  
-Monday Lecture | 04:20pm - 05:45pm  
-Wednesday Lecture | 04:20pm - 05:45pm  
+Monday *Lecture* | 04:20pm - 05:45pm  
+Wednesday *Lecture* | 04:20pm - 05:45pm  
 
 Building/Room: Business 5    
 
 Day | Time  
 ------------ | -------------  
-Monday Lab | 06:00pm - 08:05pm 
+Monday *Lab* | 06:00pm - 08:05pm 
 
 
 ## Office Hours
-Office: Business 1
+**Office: Business 1**
 
 Day | Time
 ------------ | -------------
@@ -71,7 +71,7 @@ programming concepts to numenrical analysis techniques. This course utilizes the
     * Author: Bronson
     * ISBN: 978-1-133-18784-4 
 * BC Email Address   
-* GitHub Account w/ Student Access
+* GitHub Account  
 * Flash Drive
 * Two (2) green 100-answer test scan sheets (FORM NO. 882-E).
 
@@ -130,7 +130,6 @@ Date | Event
 Jan 13 | Spring Semester - Instruction Begins 
 Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
 Jan 28 | Last day to drop from a semester length class without receiving a W 
-       | Last day to add a semester length class with approved add form  
 Feb 16 | Lincoln Holiday - Campus Closed 
 Feb 19 | Washington Holiday - Campus Closed  
 Mar 23 | Last day to withdraw from a semester length class and receive a W 
