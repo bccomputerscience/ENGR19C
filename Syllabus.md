@@ -32,7 +32,7 @@ Day | Time
 Monday *Lecture* | 04:20pm - 05:45pm  
 Wednesday *Lecture* | 04:20pm - 05:45pm  
 
-Building/Room: Business 5    
+**Building/Room: Business 5**    
 
 Day | Time  
 ------------ | -------------  
