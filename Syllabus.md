@@ -29,14 +29,14 @@ Thursday *Lab* | 09:15am - 10:35am
 
 Day | Time  
 ------------ | -------------  
-Monday *Lecture* | 04:20pm - 05:45pm  
-Wednesday *Lecture* | 04:20pm - 05:45pm  
+Monday *Lab* | 04:20pm - 05:45pm  
+Wednesday *Lab* | 04:20pm - 05:45pm  
 
 **Building/Room: Business 5**    
 
 Day | Time  
 ------------ | -------------  
-Monday *Lab* | 06:00pm - 08:05pm 
+Monday *Lecture* | 06:00pm - 08:05pm 
 
 
 ## Office Hours
