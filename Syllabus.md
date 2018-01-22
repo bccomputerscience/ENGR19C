@@ -17,8 +17,8 @@ Course Site: https://portal.bakersfieldcollege.edu/
 **CRN: 31382**  
 **Building/Room: Business 5**  
 
-Day | Time
------------- | -------------
+Day | Time  
+------------ | -------------  
 Tuesday *Lecture* | 08:00am - 09:05am  
 Tuesday *Lab* | 09:15am - 10:35am  
 Thursday *Lecture* | 08:00am - 09:05am  
@@ -44,10 +44,12 @@ Monday *Lab* | 06:00pm - 08:05pm
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 01:00pm
+Monday | 12:00pm – 01:00pm
 Monday | 03:00pm – 04:00pm
-Wednesday | 11:30am – 01:00pm
+Tuesday | 02:30pm – 03:00pm
+Wednesday | 12:00pm – 01:00pm
 Wednesday | 03:00pm – 04:00pm
+Tuesday | 02:30pm – 03:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
