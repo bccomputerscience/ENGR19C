@@ -1,5 +1,5 @@
 # ENGR B19C - Introduction to Programming Concepts and Methodologies for Engineers
-## Spring 2018 CRN: 31382 & 31383
+## Fall 2018 CRN: 71407
 
 ## Instructor
 Eddie Rangel  
@@ -14,42 +14,25 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/  
 
 ## Course Information
-**CRN: 31382**  
-**Building/Room: Business 5**  
-
-Day | Time  
------------- | -------------  
-Tuesday *Lecture* | 08:00am - 09:05am  
-Tuesday *Lab* | 09:15am - 10:35am  
-Thursday *Lecture* | 08:00am - 09:05am  
-Thursday *Lab* | 09:15am - 10:35am   
-
-**CRN: 31383**    
-**Building/Room: Business 11**   
-
-Day | Time  
------------- | -------------  
-Monday *Lab* | 04:20pm - 05:45pm  
-Wednesday *Lab* | 04:20pm - 05:45pm  
-
-**Building/Room: Business 5**    
-
-Day | Time  
------------- | -------------  
-Monday *Lecture* | 06:00pm - 08:05pm 
-
+**CRN: 31382**
+Building/Room: Business 5  
+Day | Time
+------------ | -------------
+Tuesday Lecture | 08:00am - 09:25am  
+Tuesday Lab | 09:35am - 11:00am  
+Thursday Lecture | 08:00am - 09:25am  
+Thursday Lab | 09:35am - 11:00am   
 
 ## Office Hours
-**Office: Business 1**
+Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 12:00pm – 01:00pm
-Monday | 03:00pm – 04:00pm
-Tuesday | 02:30pm – 03:00pm
-Wednesday | 12:00pm – 01:00pm
-Wednesday | 03:00pm – 04:00pm
-Thursday | 02:30pm – 03:00pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+Wednesday | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
@@ -69,16 +52,16 @@ programming concepts to numenrical analysis techniques. This course utilizes the
 ## Textbook
 
 ### Required:
-* C++ for Engineers and Scientists, 4 th Edition
-    * Author: Bronson
-    * ISBN: 978-1-133-18784-4 
+* Starting Out With C++, 9th Edition
+    * Author: Gaddis
+    * ISBN: 9780134443829 
 * BC Email Address   
-* GitHub Account  
 * Flash Drive
 * Two (2) green 100-answer test scan sheets (FORM NO. 882-E).
 
 ## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Center for Student Success Building, 1st Floor, Room 10), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+*	Students with disabilities needing accommodation, including those who had an IEP or 504 Plan in high school, should make requests to Disabled Students Programs and Services in CSS 10 (661-395-4334), or Delano room 1001 (661-720-2000). All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC.
+*	Estudiantes con discapacidades que necesitan  alojamiento, incluyendo aquellos que tienen IPE en preparatoria, tienen que hacer una solicitud a los programas de estudiantes con discapacidades (Disabled Students Programs and Services) en CSS 10, o al salon de Delano #1001 (661-395-4334) o (661-720-2000 Delano).  Todas las solicitudes para alojamiento requieren de aviso previo para evitar retrasos en los servicios. Favor de hablar conmigo sobre el alojamiento aprobado para asegurar tu acceso y exito en BC.
 
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
@@ -94,12 +77,12 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 
 Assignment | Points
 ------------ | -------------
-Mid Term Exam | 50
-Quizzes | 50
+Mid Term Exam | 100
 Programming Assignments (10 @ 20 points each) | 200
+Lab Assignments (10 @ 10 points each) | 100
 Homework Assignments (10 @ 10 points each) | 100
 Final Exam | 100
-**TOTAL** | **500**
+**TOTAL** | **600**
 
 Range (%) | grade 
 ------------ | -------------
@@ -128,14 +111,15 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Jan 13 | Spring Semester - Instruction Begins 
-Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
-Jan 28 | Last day to drop from a semester length class without receiving a W 
-Feb 16 | Lincoln Holiday - Campus Closed 
-Feb 19 | Washington Holiday - Campus Closed  
-Mar 23 | Last day to withdraw from a semester length class and receive a W 
-Mar 26 | Spring Break - Campus Closed 
-May 11 | End of Spring Semester
+Aug 18 | Fall Semester - Instruction Begins 
+Sep 02 | Last day to drop from a semester length class without receiving a W 
+Sep 03 | Labor Day Holiday - Campus Closed
+Oct 19 | Last day to withdraw from a semester length class and receive a W 
+Nov 12 | Veterans Day - Campus Closed 
+Nov 22 | Thanksgiving Holiday - Campus Closed 
+Nov 23 | Thanksgiving Holiday - Campus Closed 
+Dec 06 | Final Exam 8:00 AM - 9:50 AM
+Dec 08 | End of Fall Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
@@ -151,14 +135,13 @@ Week | Topics | Reading | Assignments
 9 | MidTerm  |  | 
 10 | Arrays | Ch. 7 | Homework 6 Due
 11 | I/O Streams and Data Files | Ch. 8 | Homework 7 Due
-12 | Spring Break - Campus Closed | | Homework 9 Due
-13 | Completing the Basics | Ch. 9 | Homework 8 Due
-14 | Pointers | Ch. 10  | 
-15  | Object-Oriented Programming | Ch. 14 | Homework 10 Due
-16 | Exceptions, Templates | Ch. 16 |
-17 | Finals Week | | 
-CRN: 31382  | Final Exam - Thurs., May 10 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
-CRN: 31383  |  Final Exam - Mon., May 7 from 4:00 PM - 5:50 PM | **Bring ScanTron** |  
+12 | Completing the Basics | Ch. 9 | Homework 8 Due
+13 | Pointers | Ch. 10  | 
+14  | Object-Oriented Programming | Ch. 14 | Homework 10 Due
+15 | Exceptions, Templates | Ch. 16 |
+16 | Finals Week | | 
+  | Final Exam - Thurs., Dec. 6 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
+
 
 
 ### Read the material for the week before class
