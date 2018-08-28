@@ -36,18 +36,15 @@ Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-**Prerequisite**:  MATH B1B with a grade of "C" or better. Description: The purpose of this course is expose students 
-to (1) the fundamental concepts of procedure oriented programming, (2) associated abstraction mechanisms and design 
-processes, (3) the interface of software with the physical world (e.g. the use of sensors), and (4) the application of 
-programming concepts to numenrical analysis techniques. This course utilizes the C/C++ programming language
+**Prerequisite**:  MATH B1B with a grade of "C" or better. Description: The purpose of this course is expose students to (1) the fundamental concepts of procedure oriented programming, (2) associated abstraction mechanisms and design processes, (3) the interface of software with the physical world (e.g., the use of sensors), and (4) the application of programming concepts to numenrical analysis techniques. This course utilizes the C/C++ programming language.
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
-1. Describe the basics of the architecture of a computer and its components.
-2. Describe the principles of structured programming.
-3. Describe, design, implement, and test structured programs using currently accepted methodology, and in particular to be able to do so for programs that control or otherwise interface with hardware by means of software.
-4. Explain what an algorithm is and its importance in computer programming.
-5. Apply numerical techniques to analyze and solve engineering-related problems.
+Upon completion of the course, the student should be able to: 
+1. Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, the definition of functions, and the use of interfaces to the physical world; 
+2. Use pseudocode or a programming language to implement, test, and debug algorithms for solving simple problems 
+3. Summarize the evolution of programming languages illustrating how this history has led to the paradigms available today 
+4. Demonstrate different forms of binding, visibility, scoping, and lifetime management 5. Demonstrate how one may combine software and hardware components in order to respond to physical phenomena and manipulate the physical world.
 
 ## Textbook
 
@@ -125,19 +122,19 @@ Dec 08 | End of Fall Semester
 Week | Topics | Reading | Assignments
 ------------- | ------------- | ------------- | -------------
 1 | Intro. to Computers & Software Development | Ch. 1 | 
-2 | Binary, Octal, Hexadecimal, Two's Complement  | Ch. 1 | Homework 1 Due
-3 | Problem Solving Using C++ | Ch. 2 | 
-4 | Expressions | Ch. 2 | 
-5 | Assignment, Formatting, and Interactive Input | Ch. 3 | Homework 3 Due 
-6 | Selecture Structures | Ch. 4 | Homework 4 Due 
-7 | Repetition Statements | Ch. 5 | Homework 5 Due 
-8 | Modularity Using Functions | Ch. 6 | 
+2 | Binary, Octal, Hexadecimal, Two's Complement  |  | Homework 1 Due
+3 | Introduction to C++ | Ch. 2 | 
+4 | Expressions | Ch. 3 | 
+5 | Making Decisions | Ch. 4 | Homework 3 Due 
+6 | Loops and Files | Ch. 5 | Homework 4 Due 
+7 | Functions | Ch. 6 | Homework 5 Due 
+8 | Arrarys | Ch. 7 | 
 9 | MidTerm  |  | 
-10 | Arrays | Ch. 7 | Homework 6 Due
-11 | I/O Streams and Data Files | Ch. 8 | Homework 7 Due
-12 | Completing the Basics | Ch. 9 | Homework 8 Due
-13 | Pointers | Ch. 10  | 
-14  | Object-Oriented Programming | Ch. 14 | Homework 10 Due
+10 | Searching & Sorting | Ch. 8 | Homework 6 Due
+11 | Pointers | Ch. 9 | Homework 7 Due
+12 | Structured Data | Ch. 11 | Homework 8 Due
+13 | Advanced Files | Ch. 12  | 
+14  | Intro. to Classes | Ch. 15 | Homework 10 Due
 15 | Exceptions, Templates | Ch. 16 |
 16 | Finals Week | | 
   | Final Exam - Thurs., Dec. 6 from 8:00 AM - 9:50 AM | **Bring ScanTron** |  
