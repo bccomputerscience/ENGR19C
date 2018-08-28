@@ -1,5 +1,5 @@
 # ENGR B19C - Introduction to Programming Concepts and Methodologies for Engineers
-## Spring 2018 CRN: 31382 & 31383
+## Fall 2018 CRN: 71407
 
 ## Instructor
 Eddie Rangel  
@@ -18,33 +18,21 @@ Course Site: https://portal.bakersfieldcollege.edu/
 Building/Room: Business 5  
 Day | Time
 ------------ | -------------
-Tuesday Lecture | 08:00am - 09:05am  
-Tuesday Lab | 09:15am - 10:35am  
-Thursday Lecture | 08:00am - 09:05am  
-Thursday Lab | 09:15am - 10:35am   
-
-**CRN: 31383**  
-Building/Room: Business 11 
-Day | Time
------------- | -------------
-Monday Lecture | 04:20pm - 05:45pm  
-Wednesday Lecture | 04:20pm - 05:45pm  
-
-Building/Room: Business 5  
-Day | Time
------------- | -------------
-Monday Lab | 06:00pm - 08:05pm 
-
+Tuesday Lecture | 08:00am - 09:25am  
+Tuesday Lab | 09:35am - 11:00am  
+Thursday Lecture | 08:00am - 09:25am  
+Thursday Lab | 09:35am - 11:00am   
 
 ## Office Hours
 Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 01:00pm
-Monday | 03:00pm – 04:00pm
-Wednesday | 11:30am – 01:00pm
-Wednesday | 03:00pm – 04:00pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+Wednesday | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
