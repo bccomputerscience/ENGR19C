@@ -40,11 +40,9 @@ Thursday | 11:00am – 12:00pm
 **Course Corequisites**: NONE
 
 ## Student Learning Outcomes
-Upon completion of the course, the student should be able to: 
-1. Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, the definition of functions, and the use of interfaces to the physical world; 
-2. Use pseudocode or a programming language to implement, test, and debug algorithms for solving simple problems 
-3. Summarize the evolution of programming languages illustrating how this history has led to the paradigms available today 
-4. Demonstrate different forms of binding, visibility, scoping, and lifetime management 5. Demonstrate how one may combine software and hardware components in order to respond to physical phenomena and manipulate the physical world.
+* Upon successful completion of the course, the student will be able to apply the principles of structured programming.
+* Upon successful completion of the course, the student will be able to apply numerical techniques to analyze and solve engineering-related problems
+* Upon successful completion of the course, the student will be able to compare computer algorithms and software/hardware interfaces in developing efficient programming code
 
 ## Textbook
 
